@@ -1,2 +1,2 @@
-# cussoJSF
+# cursoJSF
 Aprendendo Java Server Faces
